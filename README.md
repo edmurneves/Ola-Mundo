@@ -7,4 +7,8 @@
  _Adcionei essa linha remotamente no site GitHb!_
  
  ### edmurneves@gmail.com
+ [Acesse meu GitHub](https://github.com/edmurneves)
+ 
  ![icone-mensagem](https://user-images.githubusercontent.com/90069492/132686489-28edbd7a-c238-4372-9744-d552d4ac755a.png)
+ 
+ 
